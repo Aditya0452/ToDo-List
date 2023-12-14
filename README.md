@@ -19,6 +19,10 @@ Layout
 - setting main activity content to view
 - call methods (**on click**,**WEBSITE url**,.. )
 - writing logic to the methods
+  
+# Power Point and PDF 
+[AndroidPPT-compressed.pptx](https://github.com/Aditya0452/Tap-Image/files/13671038/AndroidPPT-compressed.pptx) <br>
+[AndroidPPT-compressed.pdf](https://github.com/Aditya0452/Tap-Image/files/13671100/AndroidPPT-compressed.pdf)<br><br>
 
 ***MainActivity.java*** Code with **DataBase**<br><br>
 output<br><br>
